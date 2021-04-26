@@ -10,7 +10,7 @@ Adding ProductFactoryiOSSDK as a dependency is as easy as adding it to the depen
 
 ```
 dependencies: [
-    .package(url: "https://github.com/CoherentCapital/ProductFactoryiOSSDK.git", .upToNextMajor(from: "1.0.0"))
+    .package(url: "https://github.com/CoherentCapital/ProductFactoryiOSSDK.git", .upToNextMajor(from: "1.0.1"))
 ]
 
 ```
