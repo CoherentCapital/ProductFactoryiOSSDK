@@ -41,7 +41,7 @@ Pod::Spec.new do |spec|
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  spec.vendored_frameworks = "./Sources/CoherentSDK.xcframework"
+  spec.vendored_frameworks = "Sources/CoherentSDK.xcframework"
 
 
 end
