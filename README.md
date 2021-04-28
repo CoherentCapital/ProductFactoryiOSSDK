@@ -52,6 +52,8 @@ cd <path-to-project>
 
 ### Installation through Swift Package Manager
 
+> :warning: **Only supported with xcode 12 and above**: If yoou are using xcode 11 then please use cocoapods for Installation because in Swift Package Manager binaryTargets are only supported in xcode 12+,  swift 5.3
+
 The Swift Package Manager is a tool for automating the distribution of Swift code or binary frameworks and is integrated into the swift compiler. ProductFactoryiOSSDK does support its use on supported platforms.
 
 Adding ProductFactoryiOSSDK as a dependency is as easy as adding it to the dependencies value of your Package.swift.
