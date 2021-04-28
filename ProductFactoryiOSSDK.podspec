@@ -2,12 +2,12 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ProductFactoryiOSSDK"
-  spec.version      = "1.0.2"
-  spec.summary      = "ProductFactoryiOSSDK is Coherent Capital project"
+  spec.version      = "1.0.3"
+  spec.summary      = "Coherent Product Factory is the new gold standard for developing and updating General Insurance, Life and Health products."
 
   spec.description  = <<-DESC
   
-    ProductFactoryiOSSDK is Coherent Capital project for facilitating apps. 
+    Coherent Product Factory is the new gold standard for developing and updating General Insurance, Life and Health products. It’s a single platform on which you can test, integrate and operationalise new products, and update existing pricing, product and compensation models.
   
                    DESC
 
