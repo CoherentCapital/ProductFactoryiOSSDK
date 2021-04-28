@@ -56,7 +56,7 @@ The Swift Package Manager is a tool for automating the distribution of Swift cod
 
 Adding ProductFactoryiOSSDK as a dependency is as easy as adding it to the dependencies value of your Package.swift.
 
-```
+```ruby
 dependencies: [
     .package(url: "https://github.com/CoherentCapital/ProductFactoryiOSSDK.git", .upToNextMajor(from: "1.0.3"))
 ]
@@ -65,7 +65,7 @@ dependencies: [
 
 The other way to add dependency(framework or library) is Goto ***File -> Swift Packages-> Add Package Dependency*** and add the folowing URL for ProductFactoryiOSSDK and follow the steps.
 
-```
+```ruby
 https://github.com/CoherentCapital/ProductFactoryiOSSDK.git
 
 ````

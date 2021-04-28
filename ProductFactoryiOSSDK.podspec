@@ -12,7 +12,6 @@ Pod::Spec.new do |spec|
                    DESC
 
   spec.homepage     = "https://github.com/CoherentCapital/ProductFactoryiOSSDK"
-  # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
   # spec.license      = "MIT (example)"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
