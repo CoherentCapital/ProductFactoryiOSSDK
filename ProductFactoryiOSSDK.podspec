@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   
                    DESC
 
-  spec.homepage     = "https://www.coherent.global/"
+  spec.homepage     = "https://github.com/CoherentCapital/ProductFactoryiOSSDK"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
   # spec.license      = "MIT (example)"
@@ -32,6 +32,7 @@ Pod::Spec.new do |spec|
 
   # spec.platform     = :ios
   spec.platform     = :ios, "11.0"
+  spec.ios.deployment_target = "11.0"
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
