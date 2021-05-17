@@ -3,11 +3,11 @@ Pod::Spec.new do |spec|
 
   spec.name         = "ProductFactoryiOSSDK"
   spec.version      = "1.0.3"
-  spec.summary      = "Coherent Product Factory is the new gold standard for developing and updating General Insurance, Life and Health products."
+  spec.summary      = "The intent of the Coherent iOS SDK is to allow new and existing applications to integrate a logic set deriving from the Coherent platform. The iOS SDK package primarily helps clients integrate a set of calculations and logic rules into a target front end. Furthermore, the package allows users to recall values using an offline and online syncing mechanism."
 
   spec.description  = <<-DESC
   
-    Coherent Product Factory is the new gold standard for developing and updating General Insurance, Life and Health products. It’s a single platform on which you can test, integrate and operationalise new products, and update existing pricing, product and compensation models.
+    The SDK contains a manifest.json contains API details pointing to the source platform, which houses the model, where values, logic and validation rules are derived from. The ultimate purpose of the SDK is to help our clients dynamically manage any calculation or logic change on their target app/platform without the need to re-deploy the application.
   
                    DESC
 
